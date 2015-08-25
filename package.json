@@ -1,0 +1,23 @@
+{
+  "name": "angular-flux-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "angular": "*",
+    "gulp": "*",
+    "browserify": "*",
+    "mocha": "*",
+    "gulp-mocha": "*",
+    "gulp-connect": "*",
+    "angular-route": "*",
+    "vinyl-source-stream": "*",
+    "babelify": "*",
+    "bootstrap": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
